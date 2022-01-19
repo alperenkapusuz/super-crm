@@ -1,7 +1,7 @@
 export const HOBBY_PLAN = {
   nickname: 'hobby',
   price: 29,
-  priceId: 'price_1GyDrLAORRjdBXUFYFF7kegx',
+  priceId: 'price_1KJl4jKCtoZn01uzwVwgXWVh',
   description:
     'Blue bottle crucifix vinyl post-ironic four dollar toast vegan taxidermy. Gastropub indxgo juice poutine, ramps microdosing banh mi pug VHS try-hard.',
   title: 'Hobby Plan',
@@ -16,7 +16,7 @@ export const HOBBY_PLAN = {
 export const PRO_PLAN = {
   nickname: 'pro',
   price: 49,
-  priceId: 'price_1H0kfSAORRjdBXUFxoMTAfrx',
+  priceId: 'price_1KJl4jKCtoZn01uz4QOiP2cT',
   description:
     'Blue bottle crucifix vinyl post-ironic four dollar toast vegan taxidermy. Gastropub indxgo juice poutine, ramps microdosing banh mi pug VHS try-hard.',
   title: 'Pro Plan',
