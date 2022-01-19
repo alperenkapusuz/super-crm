@@ -2,7 +2,7 @@ export default {
   cms_manual_init: true,
   backend: {
     name: 'github',
-    repo: 'jakeprins/super-crm',
+    repo: 'asesoft/SaaS',
     branch: 'master',
     squash_merges: true,
     // Uncomment these lines and replace the base URL when deploying to Vercel
